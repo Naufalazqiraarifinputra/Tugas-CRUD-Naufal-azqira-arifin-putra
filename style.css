@@ -1,0 +1,40 @@
+.table_le{
+    max-width: 900px;
+    border: 1px solid black;
+    padding: 10px;
+    overflow: auto;
+    margin: auto;
+    border-radius: 4px;
+}
+.table2 {
+    max-width: 900px;
+    border: 1px solid black;
+    padding: 10px;
+    overflow: auto;
+    margin: auto;
+    border-radius: 4px;
+}
+.index_home{
+    width: 100%;
+    font-size: 16.5px;
+    border-collapse: collapse;
+}
+
+.tampilan_Admin{
+    width: 100%;
+    font-size: 16.5px;
+    border-collapse: collapse;
+}
+
+table thead{
+    background-color: rgb(230, 206, 91);
+    color: white;
+}
+
+table thead th {
+    padding: 8px;
+}
+table th,
+table td {
+    border: 1px solid #000017;
+}
